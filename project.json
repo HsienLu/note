@@ -1,0 +1,30 @@
+[
+  {
+    "name": "LOL-TeamMaster",
+    "rootPath": "d:\\LOL-TeamMaster",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "LOL-TeamMaster-JasonServer",
+    "rootPath": "d:\\LOL-TeamMaster-JasonServer",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "hsienlu.github.io",
+    "rootPath": "d:\\hsienlu.github.io",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  },
+  {
+    "name": "note",
+    "rootPath": "d:\\note",
+    "paths": [],
+    "tags": [],
+    "enabled": true
+  }
+]
